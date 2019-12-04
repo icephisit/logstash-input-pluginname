@@ -1,1 +1,1 @@
-# logstash-input-pluginname
+# logstash-input-test
